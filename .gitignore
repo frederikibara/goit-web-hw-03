@@ -1,2 +1,3 @@
 # Ignored my_test
 my_test/
+__pycache__/
